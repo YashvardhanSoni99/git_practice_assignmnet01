@@ -11,7 +11,3 @@ if (c == 1)
 {
     console.log("Yes")
 }
-else
-{
-    console.log("No")
-}
