@@ -1,8 +1,8 @@
 let num =13;
     let c=0;
-for (let i=1;i<=num;i++)
+for (let i=2;i<=num;i++)
 {
-    if (i%num==0)
+    if (num%i==0)
     {
         c++;
     }
